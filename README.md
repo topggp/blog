@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to GGP
 
-You can use the [editor on GitHub](https://github.com/topggp/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You will find in this page, the associated code for reproducing the topggp's paper
+
+## Matlab Development by S. CONIGLIO
+
+## Python Development by J. CRUZ-FERREIRA-MATOS
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
