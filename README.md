@@ -3,6 +3,9 @@
 You will find in this page, the associated code for reproducing the topggp's paper
 
 ## Matlab Development by S. CONIGLIO
+This is an introduction to a Matlab implementation of Generalized Geometry Projection approach for topology optimization.
+In this approach geometric primitives are projected on a Finite Element Mesh and assembled together to build the solution. 
+
 
 ## Python Development by J. CRUZ-FERREIRA-MATOS
 
