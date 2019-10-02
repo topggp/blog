@@ -1,6 +1,7 @@
 ## Welcome to GGP
 
-You will find in this page, the associated code for reproducing the topggp's paper
+This web site is associated with the publication of Generalized Geometry Projection: a unified approach for geometric feature based topology optimization. Soon available on Springer journal [ACME](https://www.springer.com/engineering/computational+intelligence+and+complexity/journal/11831). 
+
 
 ## Matlab Development by S. CONIGLIO
 
