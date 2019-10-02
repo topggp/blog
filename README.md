@@ -7,6 +7,7 @@ Structural topology optimization has seen many methodological advances in the pa
 
 The framework is available for download in both Matlab and Python programming language.
 ![Example of component plot](26d.png)
+![Example of density plot](26e.png)
 
 ## Matlab Development by S. CONIGLIO
 
