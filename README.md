@@ -14,7 +14,12 @@ The framework is available for download in both Matlab and Python programming la
 see the code here:
 [repository topggp](https://github.com/topggp/GGP-Matlab)
 
-## Python Development by J. CRUZ-FERREIRA-MATOS (soon)
+## Python Development by J. CRUZ-FERREIRA-MATOS 
+
+see the code here:
+[repository topggp](https://github.com/topggp/GGP-Python)
+
+
 
 If you happen to find GGP useful for your research, it will be appreciated if you cite us with:
 
