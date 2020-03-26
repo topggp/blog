@@ -20,6 +20,7 @@ see the code here:
 [repository topggp](https://github.com/topggp/GGP-Python)
 
 
+## Please Cite Us
 
 If you happen to find GGP useful for your research, it will be appreciated if you cite us with:
 
