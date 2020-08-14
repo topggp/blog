@@ -21,7 +21,7 @@ see the code here:
 see the code here:
 [repository topggp](https://github.com/topggp/GGP-Python)
 
-## Python Development by R. GRAPIN & J. MORLIER
+## Julia Development by R. GRAPIN & J. MORLIER
 
 see the code here:
 [repository topggp](https://github.com/topggp/GGP-JULIA)
