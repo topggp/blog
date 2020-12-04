@@ -27,9 +27,19 @@ see the code here:
 [repository topggp](https://github.com/topggp/GGP-JULIA)
 
 
-## Apps in Heat Conduction, linear elasticity, compliant mechanisms and aerospace engineering. by V. BHAT and J. MORLIER
+## Applications for Aerospace by V. BHAT and J. MORLIER
 
-Soon available
+Tutorials soon available
+
+[repository topggp](https://github.com/topggp/GGP-Applications-for-Aerospace)
+
+see Simone's PhD thesis
+
+## Applications for ALM  by G. CAPASSO, V. BHAT S. CONIGLIO, C. GOGU and J. MORLIER
+
+see https://www.wccm-eccomas2020.org
+
+
 
 
 ## Please Cite Us
