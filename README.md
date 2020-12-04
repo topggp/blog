@@ -27,6 +27,11 @@ see the code here:
 [repository topggp](https://github.com/topggp/GGP-JULIA)
 
 
+## Apps in Heat Conduction, linear elasticity, compliant mechanisms and aerospace engineering. by V. BHAT and J. MORLIER
+
+Soon available
+
+
 ## Please Cite Us
 
 If you happen to find GGP useful for your research, it will be appreciated if you cite us with:
