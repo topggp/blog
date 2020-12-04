@@ -11,31 +11,32 @@ The framework is available for download in both Matlab, Julia and Python program
 ![Example of component plot](26d.png)
 ![Example of density plot](26e.png)
 
-## Matlab Development by S. CONIGLIO
+## Matlab Development 
 
-see the code here:
-[repository topggp](https://github.com/topggp/GGP-Matlab)
+see the code by S. CONIGLIO here:
+[Matlab's topggp](https://github.com/topggp/GGP-Matlab)
 
-## Python Development by J. CRUZ-FERREIRA-MATOS 
+## Python Development 
 
-see the code here:
-[repository topggp](https://github.com/topggp/GGP-Python)
+see the code by J. CRUZ-FERREIRA-MATOS here:
+[Python's topggp](https://github.com/topggp/GGP-Python)
 
-## Julia Development by R. GRAPIN & J. MORLIER
+## Julia Development 
 
-see the code here:
-[repository topggp](https://github.com/topggp/GGP-JULIA)
+see the code by R. GRAPIN & J. MORLIER here:
+[Julia's topggp](https://github.com/topggp/GGP-JULIA)
 
 
-## Applications for Aerospace by V. BHAT and J. MORLIER
+## Applications for Aerospace 
 
-Tutorials soon available
+Tutorials soon available by V. BHAT and J. MORLIER
 
-[repository topggp](https://github.com/topggp/GGP-Applications-for-Aerospace)
+[Aerospace's topggp](https://github.com/topggp/GGP-Applications-for-Aerospace)
 
-see Simone's PhD thesis
 
-## Applications for ALM  by G. CAPASSO, V. BHAT S. CONIGLIO, C. GOGU and J. MORLIER
+## Applications for ALM  
+
+Tutorials soon available by G. CAPASSO, V. BHAT S. CONIGLIO, C. GOGU and J. MORLIER
 
 see https://www.wccm-eccomas2020.org
 
