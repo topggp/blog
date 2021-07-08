@@ -60,3 +60,13 @@ or if you use Bibtex, you can use the following entry:
   publisher={Springer}
 }
 
+some Aerospace pylon applications of the method are available here (unpublished except on the PhD manuscript)
+@article{coniglio2019optimisation,
+  title={Optimisation topologique {\`a} formalisme Eul{\'e}rien et Lagrangien appliqu{\'e}e {\`a} la conception d'un ensemble propulsif},
+  author={Coniglio, Simone},
+  year={2019}
+}
+
+see https://www.youtube.com/watch?v=pPm3LrmBew4
+
+
