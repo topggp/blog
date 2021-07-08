@@ -29,16 +29,37 @@ see the code by R. GRAPIN & J. MORLIER here:
 
 ## Applications for Aerospace 
 
-Tutorials soon available by V. BHAT and J. MORLIER
+Tutorials available by V. BHAT and J. MORLIER
 
 [Aerospace's topggp](https://github.com/topggp/GGP-Applications-for-Aerospace)
+
+Last presentations at WCCM-ECCOMAS 2020 & WCSMO 2021
+S. Coniglio, J. Morlier, C. Gogu, An introduction to Generalized Geometry Projection, a unified framework for feature-based topology optimization methods, WCCM-ECCOMAS 2020
+Coniglio, S., Gogu, C., Amargier, R., & Morlier, J. (2019, May). Application of geometric feature based topology optimization to engine pylon architecture design including engine performance criteria. In 13th Wolrd Congress on Structural and Multidisciplinary Optimization.
+
+BTW some unpublished Aerospace pylon applications of the method are available here in Simone's PhD manuscript)
+
+@article{coniglio2019optimisation,
+  title={Optimisation topologique {\`a} formalisme Eul{\'e}rien et Lagrangien appliqu{\'e}e {\`a} la conception d'un ensemble propulsif},
+  author={Coniglio, Simone},
+  year={2019}
+}
+
+Have a look to the video explaining the PhD [Simone's PhD](https://www.youtube.com/watch?v=pPm3LrmBew4) 
 
 
 ## Applications for ALM  
 
-Tutorials soon available by G. CAPASSO, V. BHAT S. CONIGLIO, C. GOGU and J. MORLIER
+Tutorials  available by G. CAPASSO, V. BHAT S. CONIGLIO, C. GOGU and J. MORLIER
 
-see https://www.wccm-eccomas2020.org
+[ALM's topggp](https://github.com/topggp/GGP-for-Additive-Manufacturing)
+
+Last presentations at WCCM-ECCOMAS 2020 & WCSMO 2021
+G. Capasso, V. Bhat, S. Coniglio, J. Morlier, C. Gogu, Topology Optimization of Additive Layer Manufacturing products using Generalized Geometric Projection, WCCM-ECCOMAS 2020
+G. Capasso, V. Bhat, S. Coniglio, J. Morlier, C. Gogu, Topology Optimization with Generalized Geometric Projection: extension to Additive Layer Manufacturing self- supported designs, In 13th Wolrd Congress on Structural and Multidisciplinary Optimization.
+
+
+
 
 
 
@@ -60,13 +81,8 @@ or if you use Bibtex, you can use the following entry:
   publisher={Springer}
 }
 
-some Aerospace pylon applications of the method are available here (unpublished except on the PhD manuscript)
-@article{coniglio2019optimisation,
-  title={Optimisation topologique {\`a} formalisme Eul{\'e}rien et Lagrangien appliqu{\'e}e {\`a} la conception d'un ensemble propulsif},
-  author={Coniglio, Simone},
-  year={2019}
-}
 
-see https://www.youtube.com/watch?v=pPm3LrmBew4
+The ALM paper and Aerospace applications paper are still in progress.
+
 
 
