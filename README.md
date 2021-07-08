@@ -34,7 +34,9 @@ Tutorials available by V. BHAT and J. MORLIER
 [Aerospace's topggp](https://github.com/topggp/GGP-Applications-for-Aerospace)
 
 Last presentations at WCCM-ECCOMAS 2020 & WCSMO 2021
+
 S. Coniglio, J. Morlier, C. Gogu, An introduction to Generalized Geometry Projection, a unified framework for feature-based topology optimization methods, WCCM-ECCOMAS 2020
+
 Coniglio, S., Gogu, C., Amargier, R., & Morlier, J. (2019, May). Application of geometric feature based topology optimization to engine pylon architecture design including engine performance criteria. In 13th Wolrd Congress on Structural and Multidisciplinary Optimization.
 
 BTW some unpublished Aerospace pylon applications of the method are available here in Simone's PhD manuscript)
@@ -55,12 +57,10 @@ Tutorials  available by G. CAPASSO, V. BHAT S. CONIGLIO, C. GOGU and J. MORLIER
 [ALM's topggp](https://github.com/topggp/GGP-for-Additive-Manufacturing)
 
 Last presentations at WCCM-ECCOMAS 2020 & WCSMO 2021
+
 G. Capasso, V. Bhat, S. Coniglio, J. Morlier, C. Gogu, Topology Optimization of Additive Layer Manufacturing products using Generalized Geometric Projection, WCCM-ECCOMAS 2020
+
 G. Capasso, V. Bhat, S. Coniglio, J. Morlier, C. Gogu, Topology Optimization with Generalized Geometric Projection: extension to Additive Layer Manufacturing self- supported designs, In 13th Wolrd Congress on Structural and Multidisciplinary Optimization.
-
-
-
-
 
 
 
