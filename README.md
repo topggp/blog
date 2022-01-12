@@ -37,7 +37,7 @@ Last presentations at WCCM-ECCOMAS 2020 & WCSMO 2021
 
 S. Coniglio, J. Morlier, C. Gogu, An introduction to Generalized Geometry Projection, a unified framework for feature-based topology optimization methods, WCCM-ECCOMAS 2020
 
-Coniglio, S., Gogu, C., Amargier, R., & Morlier, J. (2019, May). Application of geometric feature based topology optimization to engine pylon architecture design including engine performance criteria. In 13th Wolrd Congress on Structural and Multidisciplinary Optimization.
+Coniglio, S., Gogu, C., Amargier, R., & Morlier, J. (2019, May). Application of geometric feature based topology optimization to engine pylon architecture design including engine performance criteria. In 13th World Congress on Structural and Multidisciplinary Optimization.
 
 BTW some unpublished Aerospace pylon applications of the method are available here in Simone's PhD manuscript)
 
@@ -56,6 +56,9 @@ Tutorials  available by G. CAPASSO, V. BHAT S. CONIGLIO, C. GOGU and J. MORLIER
 
 [ALM's topggp](https://github.com/topggp/GGP-for-Additive-Manufacturing)
 
+[Preprint](https://hal.archives-ouvertes.fr/hal-03381445/document)
+
+
 Last presentations at WCCM-ECCOMAS 2020 & WCSMO 2021
 
 G. Capasso, V. Bhat, S. Coniglio, J. Morlier, C. Gogu, Topology Optimization of Additive Layer Manufacturing products using Generalized Geometric Projection, WCCM-ECCOMAS 2020
@@ -70,6 +73,8 @@ If you happen to find GGP useful for your research, it will be appreciated if yo
 
 Coniglio, S., Morlier, J., Gogu, C., & Amargier, R. (2019). Generalized Geometry Projection: A Unified Approach for Geometric Feature Based Topology Optimization. Archives of Computational Methods in Engineering, 1-38.
 
+Bhat, K. V., Capasso, G., Coniglio, S., Morlier, J., & Gogu, C. (2021). On some applications of Generalized Geometric Projection to optimal 3D printing. Computers & Graphics.
+
 or if you use Bibtex, you can use the following entry:
 
 @article{coniglio2019generalized,
@@ -81,8 +86,13 @@ or if you use Bibtex, you can use the following entry:
   publisher={Springer}
 }
 
-
-The ALM paper and Aerospace applications paper are still in progress.
+@article{bhat2021some,
+  title={On some applications of Generalized Geometric Projection to optimal 3D printing},
+  author={Bhat, Krishnaraj Vilasraj and Capasso, Gabriele and Coniglio, Simone and Morlier, Joseph and Gogu, Christian},
+  journal={Computers \& Graphics},
+  year={2021},
+  publisher={Elsevier}
+}
 
 
 
