@@ -17,9 +17,6 @@ S. Coniglio, J. Morlier, C. Gogu, An introduction to Generalized Geometry Projec
 
 Coniglio, S., Gogu, C., Amargier, R., & Morlier, J. (2019, May). Application of geometric feature based topology optimization to engine pylon architecture design including engine performance criteria. In 13th World Congress on Structural and Multidisciplinary Optimization.
 
-BTW some unpublished Aerospace pylon applications of the method are available here in Simone's PhD manuscript)
-
-
 G. Capasso, V. Bhat, S. Coniglio, J. Morlier, C. Gogu, Topology Optimization of Additive Layer Manufacturing products using Generalized Geometric Projection, WCCM-ECCOMAS 2020
 
 G. Capasso, V. Bhat, S. Coniglio, J. Morlier, C. Gogu, Topology Optimization with Generalized Geometric Projection: extension to Additive Layer Manufacturing self- supported designs, In 13th Wolrd Congress on Structural and Multidisciplinary Optimization.
@@ -51,6 +48,7 @@ Tutorials available by V. BHAT and J. MORLIER
 
 CSMA 2022: Vers une recherche reproductible en optimisation topologique des aérostructures
 
+Some unpublished Aerospace pylon applications of the method are available here in Simone's PhD manuscript)
 
 @article{coniglio2019optimisation,
   title={Optimisation topologique {\`a} formalisme Eul{\'e}rien et Lagrangien appliqu{\'e}e {\`a} la conception d'un ensemble propulsif},
