@@ -44,7 +44,7 @@ Tutorials available by V. BHAT and J. MORLIER
 
 [Aerospace's topggp](https://github.com/topggp/GGP-Applications-for-Aerospace)
 
-[Preprint:Towards a reproducible research in topological optimization of aerostructures](https://github.com/topggp/GGP-Applications-for-Aerospace/blob/main/CSMA2022-2.pdf)
+[Preprint:Towards a reproducible research in topology optimization of aerostructures](https://github.com/topggp/GGP-Applications-for-Aerospace/blob/main/CSMA2022-2.pdf)
 
 Some unpublished Aerospace pylon applications of the method are available here in Simone's PhD manuscript)
 
