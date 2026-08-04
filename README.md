@@ -11,7 +11,14 @@ The framework is available for download in both Matlab, Julia and Python program
 ![Example of component plot](26d.png)
 ![Example of density plot](26e.png)
 
-# Recent presentations 
+# recent work using LLMs (2026)
+
+Have a look to Simone Coniglio new developments here: 
+
+[3D efficient code](https://github.com/topggp/generalized_geometry_projection)
+
+
+# presentations 
 
 S. Coniglio, J. Morlier, C. Gogu, An introduction to Generalized Geometry Projection, a unified framework for feature-based topology optimization methods, WCCM-ECCOMAS 2020
 
